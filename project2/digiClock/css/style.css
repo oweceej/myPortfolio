@@ -1,0 +1,14 @@
+/*style.css*/
+#clock {
+	width: 80%;
+	height: 50%;
+	color: #ffffff;
+	background: #660033;
+	font-family: courier, monospace;
+	font-weight: 500;
+	font-size: 6em;
+	text-align: center;
+	margin: 0 auto;
+	vertical-align: center;
+	line-height: 8em;
+}
